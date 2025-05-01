@@ -1,6 +1,6 @@
 baseURL = 'https://ruben-jimenez.github.io/'
 languageCode = 'en-us'
-title = 'My DevOps Portfolio'
+title = 'DevOps Portfolio'
 theme = 'anubis'
 
 [params]

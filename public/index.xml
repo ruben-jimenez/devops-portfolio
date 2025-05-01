@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My DevOps Portfolio</title>
-    <link>http://localhost:1313/</link>
-    <description>My DevOps Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 12:12:17 -0600</lastBuildDate>
-    
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My DevOps Portfolio</title><link>https://ruben-jimenez.github.io/</link><description>My DevOps Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 12:12:17 -0600</lastBuildDate><atom:link href="https://ruben-jimenez.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

@@ -26,7 +26,7 @@ jobs:
         run: hugo --minify
 
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v3
         with:
           path: ./public
 

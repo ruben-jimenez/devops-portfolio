@@ -1,0 +1,9 @@
+baseURL = 'https://ruben-jimenez.github.io/'
+languageCode = 'en-us'
+title = 'My DevOps Portfolio'
+theme = 'anubis'
+
+[params]
+author = "Ruben Jimenez Uribe"
+description = "DevOps | Automatización | CI/CD"
+disableDisqus = true

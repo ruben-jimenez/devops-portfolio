@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My DevOps Portfolio</title><link>https://ruben-jimenez.github.io/devops-portfolio/</link><description>My DevOps Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 12:12:17 -0600</lastBuildDate><atom:link href="https://ruben-jimenez.github.io/devops-portfolio/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on My DevOps Portfolio</title><link>https://ruben-jimenez.github.io/devops-portfolio/</link><description>My DevOps Portfolio (Welcome)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 12:12:17 -0600</lastBuildDate><atom:link href="https://ruben-jimenez.github.io/devops-portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://ruben-jimenez.github.io/devops-portfolio/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ruben-jimenez.github.io/devops-portfolio/about/</guid><description>&lt;p>I&amp;rsquo;m Rubén Jiménez, a Senior Application Support Specialist transitioning into DevOps and Cloud Engineering.&lt;/p>
+&lt;p>My background includes experience with:&lt;/p>
+&lt;ul>
+&lt;li>Linux system administration&lt;/li>
+&lt;li>Python scripting&lt;/li>
+&lt;li>GitLab CI/CD pipelines&lt;/li>
+&lt;li>Docker and container-based workflows&lt;/li>
+&lt;li>Terraform and infrastructure automation&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;m currently expanding my expertise in cloud-native tools and best practices to deliver more reliable, scalable systems.&lt;/p>
+&lt;p>Outside of tech, I enjoy video editing, horror game storytelling on YouTube, and optimizing my fitness and nutrition.&lt;/p>
+&lt;p>I&amp;rsquo;m passionate about learning and always looking for opportunities to collaborate and improve.&lt;/p></description></item><item><title>Projects</title><link>https://ruben-jimenez.github.io/devops-portfolio/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ruben-jimenez.github.io/devops-portfolio/projects/</guid><description>&lt;h3 id="devops-portfolio" >DevOps Portfolio
+&lt;span>
+&lt;a href="#devops-portfolio">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Here are a few projects and exercises that showcase my skills in automation, scripting, and deployment:&lt;/p>
+&lt;hr>
+&lt;h4 id="-hugo--github-pages-deployment" >🛠 Hugo + GitHub Pages Deployment
+&lt;span>
+&lt;a href="#-hugo--github-pages-deployment">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;p>&lt;em>This site itself&lt;/em> — built with Hugo and published automatically via GitHub Actions using a fully customized workflow with artifact upload and environment integration.&lt;/p>
+&lt;hr>
+&lt;h4 id="-cicd-with-gitlab" >⚙️ CI/CD with GitLab
+&lt;span>
+&lt;a href="#-cicd-with-gitlab">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;p>Set up GitLab CI pipelines with caching, Docker builds, and multi-environment deployments for internal tools.&lt;/p>
+&lt;hr>
+&lt;h4 id="-terraform-aws-infrastructure" >🧱 Terraform AWS Infrastructure
+&lt;span>
+&lt;a href="#-terraform-aws-infrastructure">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;p>Provisioned EC2 instances, security groups, and S3 buckets using Terraform with remote state and modules.&lt;/p>
+&lt;hr>
+&lt;h4 id="-dockerized-python-apps" >🐳 Dockerized Python Apps
+&lt;span>
+&lt;a href="#-dockerized-python-apps">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;p>Built and deployed Python applications in isolated Docker containers with environment-specific configuration.&lt;/p>
+&lt;hr>
+&lt;p>More projects and examples coming soon as I build out this portfolio.&lt;/p></description></item></channel></rss>

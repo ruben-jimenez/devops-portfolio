@@ -7,3 +7,22 @@ theme = 'anubis'
 author = "Ruben Jimenez Uribe"
 description = "DevOps | Automatización | CI/CD"
 disableDisqus = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
